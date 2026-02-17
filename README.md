@@ -35,3 +35,18 @@ Security
 - Hardware-Bound License - License tied to machine hardware.
 - Secure Activation - 20-character license key system.
 - Data Privacy - All data stored locally in user directory.
+
+License Activation
+This software requires a valid license key for full functionality.
+
+Activation Steps
+- Purchase a license or use a provided test key.
+- Navigate to Help → License Activation.
+- Enter your 20-character license key.
+- Application restarts with full features enabled.
+
+License Format
+XXXXX-XXXXX-XXXXX-XXXXX
+Example: F#7tY@4bN%1zX&9cV!6kM
+
+<b>Note</b>: Licenses are hardware-bound for security. Each license is tied to your specific machine's hardware ID.
